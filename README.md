@@ -1,1 +1,1 @@
-# repo1-synchro
+hello my name is thanmayi. iam here learn devoops. 
